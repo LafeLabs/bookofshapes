@@ -13,4 +13,20 @@
 ![](images/goldentriangle.png)
 ![](images/goldentrianglespelling.png)
 
+![](images/rightisoc.png)
+![](images/rightisocspelling.png)
 
+![](images/306090.png)
+![](images/306090spelling.png)
+
+![](images/pentagon.png)
+![](images/pentagonspelling.png)
+
+![](images/pentagram.png)
+![](images/pentagramspelling.png)
+
+![](images/hexagon.png)
+![](images/hexagonspelling.png)
+
+![](images/octagon.png)
+![](images/octagonspelling.png)
