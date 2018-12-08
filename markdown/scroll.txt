@@ -1,0 +1,16 @@
+# Book of Shapes
+
+
+![](images/trianglec1.png)
+
+![](images/trianglec1spelling.png)
+
+![](images/squarec1.png)
+
+![](images/squarec1spelling.png)
+
+![](images/goldengnomon.png)
+![](images/goldentriangle.png)
+![](images/goldentrianglespelling.png)
+
+
